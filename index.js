@@ -1,1 +1,1 @@
-console.assert.log("Hello World");
+console.assert.log("Hello World")
